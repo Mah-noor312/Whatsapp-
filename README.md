@@ -1,4 +1,4 @@
-# 💬 WhatsApp Clone (Full Stack Real-Time Chat Application)
+# 💬 Real-Time Messaging Applicatione (Full Stack Real-Time Chat Application)
 
 A full-stack real-time messaging application inspired by WhatsApp.  
 It supports real-time chat, friend requests, audio/video calling, authentication, and media sharing using modern web technologies.
